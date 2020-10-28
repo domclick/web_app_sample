@@ -3,7 +3,7 @@
 #### Работа с проектом
 Шаг | Команда
 ------------ | -------------
-Клонируем | `git clone https://github.com/domclick/web_app_sample.git
+Клонируем | `git clone https://github.com/domclick/web_app_sample.git`
 Ставим зависимости | `npm i`
 Запускаем на localhost:3000 | `npm run start`
 
